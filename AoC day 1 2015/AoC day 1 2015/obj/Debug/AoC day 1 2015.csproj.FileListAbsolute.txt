@@ -1,0 +1,8 @@
+E:\My Drive\Computer science\AoC day 1 2015\AoC day 1 2015\bin\Debug\AoC day 1 2015.exe.config
+E:\My Drive\Computer science\AoC day 1 2015\AoC day 1 2015\bin\Debug\AoC day 1 2015.exe
+E:\My Drive\Computer science\AoC day 1 2015\AoC day 1 2015\bin\Debug\AoC day 1 2015.pdb
+E:\My Drive\Computer science\AoC day 1 2015\AoC day 1 2015\obj\Debug\AoC day 1 2015.csproj.AssemblyReference.cache
+E:\My Drive\Computer science\AoC day 1 2015\AoC day 1 2015\obj\Debug\AoC day 1 2015.csproj.SuggestedBindingRedirects.cache
+E:\My Drive\Computer science\AoC day 1 2015\AoC day 1 2015\obj\Debug\AoC day 1 2015.csproj.CoreCompileInputs.cache
+E:\My Drive\Computer science\AoC day 1 2015\AoC day 1 2015\obj\Debug\AoC day 1 2015.exe
+E:\My Drive\Computer science\AoC day 1 2015\AoC day 1 2015\obj\Debug\AoC day 1 2015.pdb
